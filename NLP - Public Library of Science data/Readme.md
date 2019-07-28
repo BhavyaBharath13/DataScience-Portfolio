@@ -1,4 +1,4 @@
-# Default payments of Credit Cards
+# NLP-Public Library of Science Data
 ### By: Bhavya Balasubramanya 
 
 **Data:** These are downloads for the abstrats found on the scientists/physicists : Isaac Newton, Niels Bohr, James Maxwell, Galileo Galeli, Johannes Kepler, Stephen Hawking, Marie Curie, Paul Dirac, Daniel Bernoulli and Leonhard Euler. This was a series of requests and responses top the PLOS API.
